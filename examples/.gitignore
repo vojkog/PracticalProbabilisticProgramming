@@ -3,9 +3,11 @@
 
 # sbt specific
 .cache
+.cache-main
 .history
 .lib/
 dist/*
+bin/
 target/
 lib_managed/
 src_managed/
